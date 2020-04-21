@@ -231,5 +231,3 @@ context.fillText('( Pistol terbuka )', 860, 460 );
 
 
 
-
-
